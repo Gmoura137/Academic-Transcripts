@@ -1,9 +1,3 @@
-# Academic-Transcripts
-
-Here is a **clean, technically rigorous, and CS-oriented documentation rewrite** of your code, suitable for a README or formal specification. I’ve preserved your logic but expressed it with **proper abstraction, invariants, and system design clarity**.
-
----
-
 # AcademicTranscripts (Core Execution & API Specification)
 
 ## Overview
